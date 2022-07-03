@@ -7,7 +7,8 @@ I'm expermenting various ways to fill the screen from the back buffer
 Back buffer image is layed out linerally
 However the ZX Spectrum has a different method for laying out the screen that is more character friendly
 
-
+For the Push/Pop method1 run: pushpop1.bat
+For the LDI method run: ldi.bat
 
 
 in SevenuP ZX Spectrum screen program
