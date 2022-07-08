@@ -1,0 +1,9 @@
+Pixel_LUT	EQU 0D500H
+data		EQU 0C000H
+endless		EQU 08052H
+grab_index	EQU 08008H
+point_to_LUT	EQU 08004H
+popit		EQU 08011H
+spstore		EQU 0D680H
+start		EQU 08000H
+start_copy	EQU 08008H
